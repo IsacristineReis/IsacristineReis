@@ -1,5 +1,5 @@
 <h1 align="center">
-  ​Oie, me chamo Isabelle Cristine!
+  ​💜Oie, me chamo Isabelle Cristine!
 </h1>
 
 <h2 align="center">
@@ -9,7 +9,7 @@
 ###
 
 <p align="center">
-  🖥Estudante em Tecnólogo em Análise e Desenvolvimento de Sistema<br>📖Estudando Desenvolvimento Backend<br>📌Formada em Técnico em Informática
+  🖥Estudante em Tecnólogo em Análise e Desenvolvimento de Sistema<br>📖Estudando Desenvolvimento Backend<br>📌Formada em Técnico em Informática<br>✨Apaixonada por Tecnologia!
 </p>
 
 <h2 align="center">
