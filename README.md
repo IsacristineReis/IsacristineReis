@@ -9,7 +9,7 @@
 ###
 
 <p align="center">
-  🖥Estudante em Tecnólogo em Análise e Desenvolvimento de Sistema<br>📖Estudando Desenvolvimento Backend<br>📌Formada em Técnico em Informática<br>✨Apaixonada por Tecnologia!
+  🖥Estudante de Análise e Desenvolvimento de Sistema<br>📖Estudando Desenvolvimento Backend<br>📌Formada em Técnico em Informática<br>✨Apaixonada por Tecnologia!
 </p>
 
 <h2 align="center">
