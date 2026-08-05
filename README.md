@@ -9,6 +9,9 @@
 <p dir="auto">
   <a href="https>//linkedin.com/in/isacrisbelle-reis" rel="nofollow">
     LinkedIn
+  </a>•
+  <a href="mailto:isacrisbelle21@gmail.com">
+    Email
   </a>
 </p>
 
