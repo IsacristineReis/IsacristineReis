@@ -6,7 +6,7 @@
   Systems Analysis and Development Student
 </p>
 
-<p dir="auto">
+<p dir="auto" align="center">
   <a href="https>//linkedin.com/in/isacrisbelle-reis" rel="nofollow">
     LinkedIn
   </a>•
