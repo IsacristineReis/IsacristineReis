@@ -1,5 +1,5 @@
 <h1 align="center">
-  ​💜Oie, me chamo Isabelle Cristine!
+  ​Isabelle Cristine dos Reis Silva
 </h1>
 
 <p align="center">
@@ -12,7 +12,8 @@
   <h1 align="left">
     About
   </h1>
-  testando
+  Sou estudante de Análise e desenvolvimento de sistemas,estudo na Fatec Zona Leste.
+  Atualmente estou estudando desenvolvimento Backend
 </p>
 
 <h2 align="center">
