@@ -2,14 +2,17 @@
   ​💜Oie, me chamo Isabelle Cristine!
 </h1>
 
-<h2 align="center">
-  Sobre mim:
-</h2>
+<p align="center">
+  Systems Analysis and Development Student
+</p>
 
 ###
 
-<p align="center">
-  🖥Estudante de Análise e Desenvolvimento de Sistema<br>📖Estudando Desenvolvimento Backend<br>📌Formada em Técnico em Informática<br>✨Apaixonada por Tecnologia!
+<p align="left">
+  <h1 align="left">
+    About
+  </h1>
+  testando
 </p>
 
 <h2 align="center">
