@@ -3,7 +3,7 @@
 
 
 ## ✏️ Sobre mim
-<img src="assets/bimo.jpeg" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="assets/bimo.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 <br>
 <p align="left"> 
   Me chamo Isabelle Cristine dos Reis Silva,<br> Estou no 3° semestre de Análise e Desenvolvimento de Sistemas na Fatec Zona leste e sou formada pela Etec de Itaquera como técnica em informática.
