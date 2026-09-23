@@ -1,9 +1,18 @@
-# Isabelle Cristine
+# Oie, <br>Sou a Isabelle Cristine 👋
 **`Estudante de Análise e Desenvolvimento de Sistemas`** **`Desenvolvedora Backend`**
 
-Me chamo Isabelle Cristine dos Reis Silva, tenho 20 anos e sou de São Paulo - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste. Além disso, concluí em 2024 o curso técnico em Informática.
 
-## Linguagens e Tecnologias
+## ✏️ Sobre mim
+<img src="assets/imgIsabelle.jpg" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<br>
+<p align="left"> 
+  Me chamo Isabelle Cristine dos Reis Silva,<br> Estou no 3° semestre de Análise e Desenvolvimento de Sistemas na Fatec Zona leste e sou formada pela Etec de Itaquera como técnica em informática.
+</p>
+
+<br>
+<br>
+
+## 🛠️ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -78,5 +87,12 @@ Me chamo Isabelle Cristine dos Reis Silva, tenho 20 anos e sou de São Paulo - S
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
-          
-          
+
+<br>
+<br>
+
+---
+
+<div align="center">
+  <sub>Built with care by <strong>Isabellle Cristine</strong> ❤️</sub>
+</div>   
