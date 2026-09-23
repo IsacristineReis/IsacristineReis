@@ -56,7 +56,6 @@ style="border-radius: 70%"
 <br>
 <br>
 
-[![IsacristineReis](https://github-readme-stats.vercel.app/api/top-langs/?username=IsacristineReis&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## `<` FERRAMENTAS `/>`
 
@@ -87,11 +86,8 @@ style="border-radius: 70%"
 <a href="https://www.linkedin.com/in/isacrisbelle-reis/" target="_blank"> 
 <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=CE4257"/>
 </a>
-<a href="isabellecristine.reis21@gmail.com">
+<a href="isabellecristine.reis21@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=CE4257"/>
-</a>
-<a>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=CE4257">
 </a>
 <a href="https://wa.me/5511938013040" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=CE4257">
