@@ -31,25 +31,40 @@ style="border-radius: 70%"
 <br>
 <br>
 
-## `<` LINGUAGENS_E_TECNOLOGIAS `/>` 
+## `<` PRINCIPAIS_LINGUAGENS_E_TECNOLOGIAS `/>` 
 
-<div>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=CE4257">
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white&color=CE4257">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=CE4257">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=CE4257">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=CE4257">
+### Desenvolvimento web
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=CE4257">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=CE4257">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=CE4257">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=CE4257">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=CE4257">
+
+### Desenvolvimento backend
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=CE4257">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=CE4257">
+
+### Pacote Office
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=CE4257">
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&color=CE4257">
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&color=CE4257">
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&color=CE4257">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=CE4257">
+
+### Sistema Operacional
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white&color=CE4257">
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white&color=CE4257">
+
+</div>
+
+<br>
+<br>
+
+***
+<br>
+<br>
+
+<div align="center">
+
+![Top Languages](https://ghstats.dev/api/langs?username=IsacristineReis&theme=midnight_sakura&max_langs=10&layout=compact)
 
 </div>
 
@@ -63,6 +78,7 @@ style="border-radius: 70%"
 
     Visual Studio Code
     GitHub
+    Git
     Eclipse IDE
     MySQL
     Microsft SQL Server
@@ -86,9 +102,6 @@ style="border-radius: 70%"
 <a href="https://www.linkedin.com/in/isacrisbelle-reis/" target="_blank"> 
 <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=CE4257"/>
 </a>
-<a href="isabellecristine.reis21@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=CE4257"/>
-</a>
 <a href="https://wa.me/5511938013040" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=CE4257">
 </a>
@@ -101,4 +114,4 @@ style="border-radius: 70%"
 
 <div align="center">
   <sub>Built with care by <strong>Isabellle Cristine</strong> ❤️ - © 2026</sub>
-</div>   
+</div>
